@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Test" duration-ms="9113" started-at="2020-12-16T14:15:59Z" finished-at="2020-12-16T14:16:08Z">
+  <suite name="Test" duration-ms="10894" started-at="2020-12-16T14:17:39Z" finished-at="2020-12-16T14:17:50Z">
     <groups>
     </groups>
-    <test name="TestCase" duration-ms="9113" started-at="2020-12-16T14:15:59Z" finished-at="2020-12-16T14:16:08Z">
+    <test name="TestCase" duration-ms="10894" started-at="2020-12-16T14:17:39Z" finished-at="2020-12-16T14:17:50Z">
       <class name="TestCase">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase@79b4d0f]" name="setUp" is-config="true" duration-ms="2189" started-at="2020-12-16T19:45:59Z" finished-at="2020-12-16T19:46:01Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase@79b4d0f]" name="setUp" is-config="true" duration-ms="2006" started-at="2020-12-16T19:47:39Z" finished-at="2020-12-16T19:47:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test()[pri:0, instance:TestCase@79b4d0f]" name="test" duration-ms="6825" started-at="2020-12-16T19:46:01Z" finished-at="2020-12-16T19:46:08Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:TestCase@79b4d0f]" name="test" duration-ms="8786" started-at="2020-12-16T19:47:41Z" finished-at="2020-12-16T19:47:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase@79b4d0f]" name="tearDown" is-config="true" duration-ms="88" started-at="2020-12-16T19:46:08Z" finished-at="2020-12-16T19:46:08Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase@79b4d0f]" name="tearDown" is-config="true" duration-ms="91" started-at="2020-12-16T19:47:50Z" finished-at="2020-12-16T19:47:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
