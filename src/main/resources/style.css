@@ -1,5 +1,5 @@
 body{
-	background: #754668;
+	background: #fff;
 	background-size:cover;
 }
 .paragraph{
@@ -35,7 +35,7 @@ body{
 }
 p{
 	padding-bottom: 15px;
-	color: #D5B9B2;
+	color: #B97375;
 }
 .form-control{
 	padding: 20px;
